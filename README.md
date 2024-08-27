@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @gelibrill
-- 👀 I’m interested in game and app development.
-- 🌱 I’m currently learning game development and asset making.
+- 🐘 I currently attend California State University, Fullerton. ( Graduation 2026 )
+- 👀 I’m interested in embedded and firmware.
+- 🌱 I’m currently learning operating systems and driver creation.
 - 📫 How to reach me https://linktr.ee/gelibrillantes
-- 😄 Pronouns: she/her, they/them
-- ⚡ Fun fact: I am a Computer Science major with a emphasis on Game Engineering.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a Computer Science major with a emphasis in Engineering and Robotics.
 
 <!---
 gelibrill/gelibrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
